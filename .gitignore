@@ -61,7 +61,6 @@ pnpm-lock.yaml
 shrinkwrap.json
 
 # Документация и настройки
-*.md
 *.txt
 .editorconfig
 .eslintcache
