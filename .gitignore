@@ -21,10 +21,12 @@ bower_components/
 .pnp.js
 
 # Кэш и временные файлы
+data/
 .cache/
 .temp/
 .tmp/
 .DS_Store
+__pycache__
 *.swp
 *.swo
 
@@ -86,3 +88,6 @@ docker-compose.override.yml
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Telegram
+session.session
