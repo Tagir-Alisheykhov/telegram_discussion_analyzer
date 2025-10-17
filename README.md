@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
 [![Pyrogram](https://img.shields.io/badge/Pyrogram-MTProto-8A2BE2)](https://docs.pyrogram.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 > 🧠 Анализирует обсуждения в Telegram-супергруппе за последние 7 дней и генерирует структурированный JSON-отчёт с темами, количеством сообщений и участниками.
 
