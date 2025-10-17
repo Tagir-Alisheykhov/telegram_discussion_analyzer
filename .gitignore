@@ -1,0 +1,88 @@
+# Файлы окружения (env)
+.env
+.env.local
+.env.dev
+.env.development
+.env.test
+.env.production
+*.env
+
+# Логи и системные файлы
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Директории зависимостей
+node_modules/
+bower_components/
+.pnp
+.pnp.js
+
+# Кэш и временные файлы
+.cache/
+.temp/
+.tmp/
+.DS_Store
+*.swp
+*.swo
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Директории сборки / артефактов
+dist/
+build/
+out/
+.next/
+.nuxt/
+.serverless/
+.turbo/
+.output/
+
+# Тестовые покрытия и отчеты
+coverage/
+.nyc_output/
+*.lcov
+
+# Пакетные менеджеры
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+shrinkwrap.json
+
+# Документация и настройки
+*.md
+*.txt
+.editorconfig
+.eslintcache
+.prettierignore
+
+# Бинарные файлы
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.jar
+*.class
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
